@@ -8,11 +8,8 @@ build/
 target/
 
 # Environment variables
-.env
-.env.local
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -31,3 +28,4 @@ pnpm-debug.log*
 
 # TypeScript
 *.tsbuildinfo
+config.bat
